@@ -13,4 +13,4 @@ DB_USERNAME=root
 DB_PASSWORD=
 bisa diperhatikan ada databse dengan nama db post-article, silahkan buat db dengan nama tersebut dengan dbms kesayangan anda
 6.kembali ke terminal git bash kita ssebelumnya silakan jalankan " php artisan migrate:fresh --seed " lalu tekan enter
-7. akan muncur url server yang bisa kita jalankan " http://127.0.0.1:8000/ " , silahkan copy dan paste di browser, article sudah bisa dijalankan
+7.terakhir jalankan "php artisan serve " akan muncur url server yang bisa kita jalankan " http://127.0.0.1:8000/ " , silahkan copy dan paste di browser, article sudah bisa dijalankan dan akan muncul halaman dashboard
