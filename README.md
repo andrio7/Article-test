@@ -4,7 +4,8 @@
 2. setelah download silahkan extrak
 3. selanjutnya klik kanan pada Folder Post-article dan klik Git bash
 4. buka vs code dan buka folder Post-article
-5. pada file .env 
+5. Jalankan dbms
+6. pada file .env 
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
